@@ -1,4 +1,4 @@
-# Automated File Management System
+# Automated File Organizer System
 
 A Python script that manages files automatically to reduce the number of files stored in the Download folders.
 
